@@ -1,0 +1,291 @@
+Day 15:
+
+Agenda:
+
+
+ Front End Application Development:
+
+	Single Page Applications (SPA)
+
+		Using Client Side Javascript Framework
+
+			React JS / Angular / Vue  / ..................
+		React JS
+			Library provided facebook
+			Open source
+
+		Build User interface :  (Mobile First User Interface)
+				Single Page Application
+				index.html
+				
+		 based on 
+			Component based User Interface Design
+			
+		
+		UI Routing----------------- UI Navigation
+		Data Binding----------------
+		Event Binding----------------
+		
+		View Engine--------------------------Javascript syntax
+			Auto refresh
+			Asynchronous Updation
+			Fast Rendering
+
+		Asynchrnous Data Access----------
+
+		Data Architecture
+				( Oberver Observable Pattern)
+
+			Flux / Redux 
+			RxJS
+
+		
+
+	  Kaplesh Sonawane
+		
+		sir in react we face less diffulty regrading to rest api ?
+
+		Is it simpler than Angular
+
+		Error are basically show in react 
+
+
+
+		 Angular 		React JS 				Vue JS---------------
+
+
+
+
+
+
+			
+
+
+
+Pre-requisite for cteateing and building Java Web Application:
+
+		1.Runtime: Java
+		2.SDK:JDK
+		3.IDE (Tool) :Integrated Developers Enviornment (IDE)  Eclipse
+		4.Maven:
+
+	Use Eclipse: ( GUI )
+		Create Dynamic Poject
+		privides Project templates
+				Developer create Spring MVC project
+							Workspace is created with standard folders with differnt types of files
+
+
+							 folder:
+								web.xml
+								lib
+								pom.xml	-------
+								web content
+									......
+								
+								resources
+									 ....
+									  ....
+		Now Developer start extending  Java project by adding java code 
+
+								POJO
+								controller
+								jsp
+								xml files
+								configuration 
+
+
+
+Let us start with REACT Hello World Example:
+
+		WE need to create React JS Application
+						node JS Application as start up 
+
+
+Pre-requisite:
+		1.Runtime: Node JS
+		2.SDK: node_modules
+		3.(Tool) :Visual Code
+		4.Depencendency Resolver: npm, npx
+
+	We would need  CLI
+		       Command Line Infrastructure
+
+	Steps: 
+		1. Install node JS
+
+		2. npm install  -g create-react-app    ----- CLI
+
+
+
+		3. Create React JS Application Project :
+
+		   a.npx create-react-app  TAPFirstReactApp
+				Command will create speperate folder
+					with standard sub folders and files
+			
+		   b.npx create-react-app  TAPSecondReactApp
+				Command will create speperate folder
+					with standard sub folders and files
+
+		   c.npx create-react-app  TAPThirdReactApp
+				Command will create speperate folder
+					with standard sub folders and files
+
+
+		Write code:
+				functional approach
+				object oriented approach
+				SOA ( Service Oriented Architecture)
+				
+		Front End Application
+				Component based approach
+
+		Complete front End User interface will be designed, created using 
+				Component Tree
+
+
+Modern Javascript Framework:
+			Component based approach creating UI
+			
+
+React JS:
+		Compoent base Approach for building Dynamic Front End 
+		Provides inbuilt funcationalities in the form class,--------------Objects
+							      keywords,		 React.component....
+							      Syntax,------------ ES6 
+ 						              folder structure   ----Modularity
+
+
+Framework:
+	   Language------------Sytax---------------------------Javascript
+	   Object Orientation----way of writing Code-----------ES6
+	   Best practices------class, inheritance, polymorphism----Exensible Library
+
+	   Put constraints while writing soltuion----- file name, extenstion, notation
+	   
+	   Architecture------------------------------Loosely Coupled , Highly Cohesive Architecture
+				-----------------------------Publisher/ Provider
+				-----------------------------Design Pattern
+							Observable Design Pattern
+							Class Factory pattern
+							Singleton
+							MVC,,,,,etc
+
+	   Reusable Library-------------------inbuilt functionality
+		
+
+
+
+		is ii necessary to have test.js for every js file in the app
+
+
+
+		Sir, what is difference between 
+			functional components and class components 
+			if both are generating same output?
+
+
+
+		TDD:
+			Test Driven Development Approach
+
+
+			After getting requirements from customers
+
+			Testing Team first write Unit Tests
+
+
+			Unit Tests are submitted to Developer Team
+
+		       Then developers team start building software and test their software against unit test provided by Tester
+			
+			Because of this approach , developer would ensure desired functionaily of s/w to readjusted 
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 Best Suitable mechanism for building tomorrows , todays User Interface
+	
+	 Page Page Solution.
+
+	 So let us get started.....
+	 Pre-requisite: Javascript that is it....
+			nothing more than that
+
